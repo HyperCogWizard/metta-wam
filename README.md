@@ -17,6 +17,17 @@
 - [Testing Readme](https://github.com/logicmoo/metta-testsuite/blob/development/tests/README.md) and [Result Links](https://github.com/logicmoo/metta-testsuite/blob/development/reports/TEST_LINKS.md)
 - [Overview Documentation](https://github.com/trueagi-io/metta-wam/blob/master/docs/OVERVIEW.md).
 
+## 📚 Comprehensive Architecture Documentation
+
+The MeTTa-WAM system features extensive architectural documentation with Mermaid diagrams illustrating the cognitive architecture:
+
+- **[Architecture Overview](docs/ARCHITECTURE.md)** - High-level system architecture and neural-symbolic integration
+- **[Module Interactions](docs/MODULE_INTERACTIONS.md)** - Detailed component relationships and cognitive flow patterns  
+- **[Data Flow Patterns](docs/DATA_FLOW_PATTERNS.md)** - Information propagation and recursive processing pathways
+- **[Implementation Details](docs/IMPLEMENTATION_PATHWAYS.md)** - Technical specifications and optimization mechanisms
+- **[System Overview](docs/SYSTEM_OVERVIEW.md)** - Comprehensive guide to the cognitive architecture
+
+These documents capture the emergent, recursive, and adaptive nature of the system through precise Mermaid visualizations and technical exposition, facilitating distributed cognition for all contributors through hypergraph-centric documentation.
 
 ## Getting Started
 
